@@ -12,6 +12,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.1",
+    "@mui/styles": "^5.14.1",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
     "marked": "^4.2.4",

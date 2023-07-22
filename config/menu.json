@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "Customer",
+      "url": "/customer"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },
